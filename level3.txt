@@ -1,0 +1,244 @@
+Tile Ground  0 0 1 1
+Tile Ground  1 0 1 1
+Tile Ground  2 0 1 1
+Tile Ground  3 0 1 1
+Tile Ground  4 0 1 1
+Tile Ground  5 0 1 1
+Tile Ground  6 0 1 1
+Tile Ground  7 0 1 1
+Tile Ground  8 0 1 1
+Tile Ground  9 0 1 1
+Tile Ground 10 0 1 1
+Tile Ground 11 0 1 1
+Tile Ground 12 0 1 1
+Tile Ground 13 0 1 1
+Tile Ground 14 0 1 1
+Tile Ground 15 0 1 1
+Tile Ground 16 0 1 1
+Tile Ground 17 0 1 1
+Tile Ground 18 0 1 1
+Tile Ground 19 0 1 1
+Tile Ground 20 0 1 1
+
+
+Tile Block 4 5 1 1
+Tile Block 4 4 1 1
+Tile Block 5 4 1 1
+Tile Block 6 4 1 1
+Tile Block 7 4 1 1
+Tile Block 8 4 1 1
+Tile Block 9 4 1 1
+Tile Block 10 4 1 1
+Tile Block 10 5 1 1
+
+NPC Frog 6 5 1 1 2 1 Follow 1
+
+
+Tile Coin 6 3 1 1
+Tile Coin 7 6 1 1
+Tile Coin 8 6 1 1
+Tile WavesUp 13 1 0 0
+
+NPC MaskedDude 15 1 0 0 4 3 Follow 0
+
+Tile Brick 16 4 1 1
+Tile Coin 16 8 1 1
+
+Tile Brick 20 4 1 1
+Tile Block 21 4 1 1
+Tile Brick 22 4 1 1
+Tile Block 23 4 1 1
+Tile Brick 24 4 1 1
+Tile HealthPotion 23 5 0 0
+Tile Brick 25 4 1 1
+
+Tile Brick 22 7 1 1
+Tile Coin 22 9 1 1
+Tile Bullet 22 8 1 1
+
+Tile Brick 29 4 1 1
+Tile Brick 30 4 1 1
+Tile Block 31 4 1 1
+NPC MaskedDude 29 5 0 0 4 3 Follow 0
+Tile SwordUp 30 5 0 0
+
+Tile Brick 33 7 1 1
+Tile Brick 34 7 1 1
+Tile Brick 35 7 1 1
+Tile Brick 36 7 1 1
+Tile Brick 37 7 1 1
+Tile Brick 38 7 1 1
+Tile Brick 39 7 1 1
+Tile Brick 40 7 1 1
+Tile Brick 41 7 1 1
+Tile Brick 42 7 1 1
+NPC Frog 40 8 0 0 2 1 Patrol 2 2 42 8 33 8
+
+Tile Ground 21 0 1 1
+Tile Ground 22 0 1 1
+Tile Ground 23 0 1 1
+Tile Ground 24 0 1 1
+Tile Ground 25 0 1 1
+Tile Ground 26 0 1 1
+Tile Ground 27 0 1 1
+Tile Ground 28 0 1 1
+Tile Ground 29 0 1 1
+Tile Ground 30 0 1 1
+Tile Ground 31 0 1 1
+Tile Ground 32 0 1 1
+Tile Ground 33 0 1 1
+Tile Ground 34 0 1 1
+Tile Ground 35 0 1 1
+Tile Ground 36 0 1 1
+Tile Ground 37 0 1 1
+Tile Ground 38 0 1 1
+Tile Ground 39 0 1 1
+Tile Ground 40 0 1 1
+
+
+Tile Ground 46 5 1 1
+Tile Ground 47 5 1 1
+Tile Ground 48 5 1 1
+Tile Ground 49 5 1 1
+Tile Block 47 4 1 1
+Tile Block 47 3 1 1
+Tile Block 47 2 1 1
+Tile Block 47 1 1 1
+Tile Block 47 0 1 1
+Tile Block 48 4 1 1
+Tile Block 48 3 1 1
+Tile Block 48 2 1 1
+Tile Block 48 1 1 1
+Tile Block 48 0 1 1
+Tile DamagePotion 38 9 0 0
+
+Tile Block 53 2 1 1
+Tile Block 54 2 1 1
+Tile Block 55 2 1 1
+Tile Block 54 1 1 1
+Tile Block 54 0 1 1
+
+Tile Block 58 4 1 1
+Tile Block 59 4 1 1
+Tile Block 60 4 1 1
+Tile Block 61 4 1 1
+Tile Block 62 4 1 1
+Tile Block 61 5 1 1
+Tile Block 61 6 1 1
+Tile Block 61 7 1 1
+Tile Block 61 8 1 1
+Tile Block 62 8 1 1
+Tile Coin 62 5 1 1
+Tile Coin 55 3 1 1
+
+Tile Block 67 8 1 1
+Tile Block 67 7 1 1
+Tile Block 67 6 1 1
+Tile Block 67 5 1 1
+Tile Block 67 4 1 1
+Tile Block 67 3 1 1
+Tile Block 67 2 1 1
+Tile Block 67 1 1 1
+Tile Ground 67 0 1 1
+Tile Ground 68 0 1 1
+Tile Ground 69 0 1 1
+Tile Ground 70 0 1 1
+Tile Ground 71 0 1 1
+Tile Ground 72 0 1 1
+
+Tile SpeedPotion 72 1 0 0
+
+Tile Block 74 3 1 1
+Tile Block 75 3 1 1
+Tile Block 76 3 1 1
+Tile Block 77 3 1 1
+Tile Block 78 3 1 1
+Tile Coin 77 5 1 1
+NPC Frog 78 4 0 0 2 1 Patrol 3 2 78 4 74 4
+
+NPC FlyingKnight 80 7 0 0 2 1 Patrol 2 2 80 7 80 3
+
+NPC FlyingKnight 69 9 0 0 2 1 Patrol 2 4 69 7 69 9 67 9 69 9
+
+Tile Block 82 4 1 1
+Tile Block 83 4 1 1
+Tile Block 84 4 1 1
+Tile Block 85 4 1 1
+
+Tile Ground 87 0 1 1
+Tile WavesUp 87 1 1 1
+Tile Ground 90 0 1 1
+Tile WavesUp 90 1 1 1
+Tile Ground 93 0 1 1
+Tile WavesUp 93 1 1 1
+
+
+Tile Block 95 7 1 1
+Tile Block 96 7 1 1
+Tile Block 97 7 1 1
+
+
+Tile Ground  99 0 1 1
+Tile Block   99 1 1 1
+Tile Block   99 2 1 1
+Tile Block   99 3 1 1
+Tile Block   99 4 1 1
+Tile Block   99 5 1 1
+Tile Ground 100 0 1 1
+Tile Ground 101 0 1 1
+Tile Ground 102 0 1 1
+Tile Ground 103 0 1 1
+Tile Ground 104 0 1 1
+Tile Ground 105 0 1 1
+Tile Ground 106 0 1 1
+Tile Ground 107 0 1 1
+Tile Ground 108 0 1 1
+Tile Ground 109 0 1 1
+Tile Ground 110 0 1 1
+Tile Ground 111 0 1 1
+Tile Ground 112 0 1 1
+Tile Ground 113 0 1 1
+Tile Ground 114 0 1 1
+Tile Ground 115 0 1 1
+Tile Ground 116 0 1 1
+Tile Ground 117 0 1 1
+Tile Ground 118 0 1 1
+Tile Ground 119 0 1 1
+Tile Ground 120 0 1 1
+Tile Ground 121 0 1 1
+Tile Ground 122 0 1 1
+Tile Ground 123 0 1 1
+Tile Ground 124 0 1 1
+Tile Ground 125 0 1 1
+Tile Ground 126 0 1 1
+Tile Ground 127 0 1 1
+Tile Ground 128 0 1 1
+Tile Ground 129 0 1 1
+Tile Ground 130 0 1 1
+Tile Block  130 1 1 1
+Tile Block  130 2 1 1
+Tile Block  130 3 1 1
+Tile Block  130 4 1 1
+Tile Block  130 5 1 1
+
+NPC FlyingKnight 90 9 1 1 2 1 Follow 1
+
+
+Tile Block 108 4 0 0
+Tile Block 109 4 0 0
+Tile Block 110 4 0 0 
+
+Tile Block 118 4 0 0
+Tile Block 119 4 0 0
+Tile Block 120 4 0 0
+
+Tile Block 113 7 0 0
+Tile Block 114 7 0 0
+Tile Block 115 7 0 0
+
+NPC FlyingKnight 115 2 1 1 2 1 Follow 1
+NPC FlyingKnight 115 3 1 1 2 1 Follow 2
+NPC ReaperRunning 115 1 0 0 20 1 Follow 1.5
+Tile Pole 115 -5 1 1
+
+Player 2 1 48 48 5 -20 20 0.75 10 Buster

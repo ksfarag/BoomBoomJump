@@ -1,0 +1,22 @@
+Player					 6 1 0 0 5 -20 20 0.75 10 Buster 
+Tile Ground 			 7 1 0 1
+Tile Ground 			 8 1 0 1
+Tile HealthPotion        18 11 0 0
+Tile SpeedPotion         17 11 0 0 
+Tile InvincibilityPotion 16 11 0 0 
+Tile DamagePotion        15 11 0 0
+Tile WavesUp 			 14 11 0 1 
+NPC  Tektite 			 13 11 0 0 3 1 Follow 1
+NPC  Knight  			 12 11 0 0 3 1 Follow 1
+NPC  FlyingKnight        11 11 0 0 3 1 Follow 1
+NPC  MaskedDude          10 11 0 0 3 1 Follow 1
+Tile Block				 9 11 1 1
+Tile Ground 			 8 11 1 1
+Tile Brick 				 7 11 1 1
+Tile SwordUp   			 6 11 1 1
+Tile Bullet 			 5 11 0 0
+Tile Coin 				 4 11 1 1
+Tile Fan 				 3 11 1 1
+NPC ReaperRunning 		 2 11 0 0 20 1 Follow 1.5
+MTile MBrick 			 1 11 1 0  Patrol 2 2 8 -1 12 -1
+Tile Pole				 0 11 1 1

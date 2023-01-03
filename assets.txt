@@ -1,0 +1,202 @@
+Texture   TexStand   images/megaman/stand64.png              
+Texture   TexRun     images/megaman/run64.png                
+Texture   TexAir     images/megaman/air64.png                
+Texture   TexBuster  images/megaman/buster.png
+Texture   TexExplode images/misc/explosion.png
+Texture   TexCoin    images/misc/coinspin.png
+
+
+
+Texture   TexBrick   images/mario/brick.png
+Texture   TexPScene  images/tloz/pScene.png
+Texture   TexDeath   images/tloz/youDied.png
+Texture   TexGround  images/mario/ground.png
+Texture   TexBlock   images/mario/block.png
+
+
+
+
+Texture   TexFan     images/TexturePack/Traps/Fan/Fan.png
+Texture   TexGhosts    images/tloz/Ghosts.png
+Texture   TexBackpack	images/tloz/backpack.png
+Texture   TexMbrick      images/tloz/green/tile_stairs.png            
+Texture   TexPotion      images/tloz/L_pink_potion.png
+Texture   TexCanon       images/tloz/cannon.png
+Texture   TexBullet      images/tloz/buster.png 
+Texture   TexWavesUp     images/tloz/waves_up.png
+Texture   TexSwordRight  images/tloz/item_sword_right.png
+Texture   TexSwordUp     images/tloz/item_sword_up.png
+Texture   TexProgressBar images/tloz/item_rupee.png
+Texture   TexTektite     images/tloz/tektite.png
+Texture   TexKnight      images/tloz/knight.png
+Texture   TexFlyingKnight images/tloz/flying_knight.png
+Texture   TexMaskedDude  images/tloz/mask_dude.png
+Texture   TexFrog        images/tloz/frog.png
+Texture   TexDPotion     images/tloz/Dpotion.png
+Texture   TexinvPotion   images/tloz/invPotion.png
+Texture   TexPole        images/tloz/pole.png
+Texture   TexPoleFlag    images/tloz/poleFlag.png
+Texture   TexCoinsCollected    images/tloz/coins.png
+Texture   TexButton1           images/tloz/Button1.png
+Texture   TexButton2           images/tloz/Button2.png
+Texture   TexButton3           images/tloz/Button3.png
+Texture   TexButton2Locked     images/tloz/Button2Locked.png
+Texture   TexButton3Locked     images/tloz/Button3Locked.png
+Texture   TexEditing           images/tloz/edit.png
+
+Texture   TexNinjaIdle    images/ninja/ninja_idle.png
+Texture   TexNinjaJump    images/ninja/ninja_jump.png
+Texture   TexNinjaRun     images/ninja/ninja_run.png
+Texture   TexNinjaSword   images/ninja/ninja_sword.png
+
+Texture   TexReaperAttack  images/Reaper/ReaperAttack.png
+Texture   TexReaperRunning images/Reaper/ReaperRunning.png
+
+
+Animation CoinsCollected     TexCoinsCollected    1    0 
+Animation Editing   TexEditing    		2    15 
+Animation PScene 	TexPScene	        3    9
+Animation Death  	TexDeath	        1    0
+Animation DPotion     TexDPotion     	1    0 
+
+Animation Button1    		TexButton1      	1    0
+Animation Button2     		TexButton2      	1    0
+Animation Button3    		TexButton3     		1    0
+Animation Button2Locked     TexButton2Locked 	1    0
+Animation Button3Locked     TexButton3Locked 	1    0
+
+Animation backpack     TexBackpack     	1    0  
+Animation invPotion   TexinvPotion   	1    0   
+Animation Ghosts   TexGhosts      		4   10
+Animation Tektite    TexTektite      	12   3
+Animation Knight     TexKnight       	12   3
+Animation FlyingKnight TexFlyingKnight  12   3
+Animation MaskedDude TexMaskedDude      12   3
+Animation Frog       TexFrog            12   3
+Texture	  TexOverworldMap	images/tloz/overworld.png
+Animation Overworld	TexOverworldMap 1  0
+
+Animation NinjaIdle  	 TexNinjaIdle     6    8
+Animation NinjaJump  	 TexNinjaJump     3    15
+Animation NinjaRun    	 TexNinjaRun      11   3
+Animation NinjaSword  	 TexNinjaSword    6    2
+Animation ReaperRunning  TexReaperRunning 8    5
+Animation ReaperAttack   TexReaperAttack  10   2
+
+
+Animation Stand      TexStand    1    0   
+Animation Run        TexRun      4   10    
+Animation Air        TexAir      1    0  
+Animation Buster     TexBuster   1    0   
+Animation Explosion  TexExplode 10    4   
+Animation Coin       TexCoin    18    3 
+Animation Fan        TexFan      4    3   
+Animation Brick      TexBrick    1    0       
+Animation Ground     TexGround   1    0   
+Animation Block      TexBlock    1    0   
+Animation Pole       TexPole     1    0
+Animation PoleFlag   TexPoleFlag 30   5   
+  
+
+Animation Bar       	TexProgressBar  1    0
+Animation MBrick        TexMbrick       1    0
+Animation Potion        TexPotion       1    0
+Animation Canon         TexCanon        1    0
+Animation Bullet        TexBullet       1    0 
+Animation WavesUp     	TexWavesUp      8    4
+Animation SwordRight    TexSwordRight   1    0
+Animation SwordUp 	    TexSwordUp   	1    0
+
+
+
+
+
+
+Texture   TexMist  images/ForestBackground/01_Mist.png
+Texture   TexBushes  images/ForestBackground/02_Bushes.png
+Texture   Tex3Particles  images/ForestBackground/03_Particles.png
+Texture   Tex4Forest  images/ForestBackground/04_Forest.png
+Texture   Tex5Particles  images/ForestBackground/05_Particles.png
+Texture   Tex6Forest  images/ForestBackground/06_Forest.png
+Texture   Tex7Forest  images/ForestBackground/07_Forest.png
+Texture   Tex8Forest  images/ForestBackground/08_Forest.png
+Texture   Tex9Forest  images/ForestBackground/09_Forest.png
+Texture   Tex10Sky  images/ForestBackground/10_Sky.png
+Animation Mist  TexMist   1 0
+Animation Bushes  TexBushes  1 0
+Animation Particles3  Tex3Particles  1 0
+Animation Forest4  Tex4Forest  1 0
+Animation Particles5  Tex5Particles  1 0
+Animation Forest6  Tex6Forest  1 0
+Animation Forest7  Tex7Forest  1 0
+Animation Forest8  Tex8Forest  1 0
+Animation Forest9  Tex9Forest  1 0
+Animation Sky10  Tex10Sky  1 0
+
+Texture   TexBG  images/DesertParallax/9_Background.png
+Texture   TexStars2  images/DesertParallax/8_Stars2.png
+Texture   TexStars  images/DesertParallax/8_Stars.png
+Texture   TexClouds2  images/DesertParallax/7_Clouds2.png
+Texture   TexClouds  images/DesertParallax/7_Clouds.png
+Texture   TexSun  images/DesertParallax/6_Sun.png
+Texture   TexMountains  images/DesertParallax/5_Mountains.png
+Texture   TexLayer4  images/DesertParallax/4_Layer4.png
+Texture   TexLayer3  images/DesertParallax/3_Layer3.png
+Texture   TexLayer2  images/DesertParallax/2_Layer2.png
+Texture   TexLayer1  images/DesertParallax/1_Layer1.png
+Animation BG TexBG  1 0
+Animation Stars2  TexStars2  1 0
+Animation Stars  TexStars  1 0
+Animation Clouds2  TexClouds2  1 0
+Animation Clouds  TexClouds  1 0
+Animation Sun  TexSun  1 0
+Animation Mountains  TexMountains  1 0
+Animation Layer4  TexLayer4  1 0
+Animation Layer3  TexLayer3  1 0
+Animation Layer2  TexLayer2  1 0
+Animation Layer1  TexLayer1  1 0
+
+Texture   TexTreeGround 	 images/TreeParallax/1.png
+Texture   TexTwoTrees1 	 images/TreeParallax/2.png
+Texture   TexTwoTrees2 	 images/TreeParallax/3.png
+Texture   TexTrees  		images/TreeParallax/4.png
+Texture   TexTreeBG 	 images/TreeParallax/5.png
+Animation TreeGround 	TexTreeGround  1 0
+Animation TwoTrees1  	TexTwoTrees1  1 0
+Animation TwoTrees2  	TexTwoTrees2  1 0
+Animation Trees    		TexTrees  1 0
+Animation TreeBG 		TexTreeBG  1 0
+
+Texture   TexHealthPotion   images/Potions/Potion64/light_blue_potion.png
+Texture   TexSpeedPotion   images/Potions/Potion64/yellow_potion.png
+Texture   TexInvincibilityPotion   images/Potions/Potion64/red_potion.png
+Texture   TexDamagePotion   images/Potions/Potion64/purple_potion.png
+Animation HealthPotion        TexHealthPotion   1    0
+Animation SpeedPotion        TexSpeedPotion   1    0
+Animation InvincibilityPotion        TexInvincibilityPotion   1    0
+Animation DamagePotion    TexDamagePotion   1    0
+
+
+Texture   TexShaderBG   	images/shaderBG.png
+Animation  ShaderBG    TexShaderBG   1    0
+
+Font      Tech       fonts/tech.ttf
+Font      Mario      fonts/mario.ttf
+Font      Megaman    fonts/megaman.ttf
+
+
+Sound LevelMusic	audio/levelMusic.ogg
+Sound Gunshot	    audio/gunshot.ogg
+Sound BoxExplode	audio/boxExplode.wav
+Sound TakeDamage    audio/takingDamage.ogg
+Sound Collect       audio/collect.ogg
+Sound MenuMusic     audio/menuMusic.ogg
+Sound DoubleDamage  audio/doubleDamage.ogg
+Sound Heal          audio/heal.ogg
+Sound Invincible    audio/invincible.ogg
+Sound Speed         audio/speed.ogg
+Sound Sword         audio/sword.wav
+Sound Win1			audio/win1.ogg
+Sound Win2			audio/win2.ogg
+Sound End			audio/end.ogg
+Sound Lose			audio/lose.wav

@@ -1,0 +1,196 @@
+Level 1
+HealthPotion 0
+SpeedPotion 0
+InvincibilityPotion 0
+DamagePotion 0
+Bullets 0
+Player -1 8 48 48 5 -20 20 0.75 20 Buster
+Tile HealthPotion 13 10 0 0
+Tile HealthPotion 14 10 0 0
+Tile Bullet 15.25 10.25 0 0
+Tile Block 1 7 1 1
+Tile Block 0 7 1 1
+Tile Coin 12.2496 10.25 1 1
+Tile Coin 15.2496 10.25 1 1
+Tile Block 4 9 1 1
+Tile Block 5 9 1 1
+Tile Block 6 9 1 1
+Tile Block 7 9 1 1
+Tile Block 8 9 1 1
+Tile Block 9 9 1 1
+Tile Block 10 9 1 1
+Tile Block 11 9 1 1
+Tile Block 12 9 1 1
+Tile Block 13 9 1 1
+Tile Block 14 9 1 1
+Tile Block 15 9 1 1
+Tile Block 16 9 1 1
+Tile Block 16 10 1 1
+Tile Block 16 12 1 1
+Tile Block 16 13 1 1
+Tile Block 16 14 1 1
+Tile Coin 45 6 1 1
+Tile Coin 24 9 1 1
+Tile Coin 120 11 1 1
+Tile Ground 3 0 1 1
+Tile WavesUp 3 1 0 0
+Tile Ground 8 0 1 1
+Tile WavesUp 8 1 0 0
+Tile Ground 12 0 1 1
+Tile WavesUp 12 1 0 0
+Tile Ground 16 0 1 1
+Tile WavesUp 16 1 0 0
+Tile Block 27 7 1 1
+Tile Block 28 7 1 1
+Tile Block 36 8 1 1
+Tile Block 37 8 1 1
+Tile Block 38 8 1 1
+Tile Bullet 36 10 1 1
+Tile Ground 32 0 1 1
+Tile WavesUp 32 1 0 0
+Tile Block 34 4 1 1
+Tile WavesUp 34 5 1 1
+Tile Block 42 6 1 1
+Tile Block 42 7 1 1
+Tile Block 48 6 1 1
+Tile Block 48 7 1 1
+Tile Block 54 6 1 1
+Tile Block 55 6 1 1
+Tile Block 56 6 1 1
+Tile Block 57 6 1 1
+Tile Block 58 6 1 1
+Tile Block 59 6 1 1
+Tile Coin 48.2496 10.25 0 0
+Tile Block 54 7 1 1
+Tile Block 59 7 1 1
+Tile Block 62 7 1 1
+Tile Block 63 7 1 1
+Tile Block 64 7 1 1
+Tile Block 65 7 1 1
+Tile Block 80 5 1 1
+Tile Block 81 5 1 1
+Tile HealthPotion 81 6 0 0
+Tile SwordUp 48.3125 8.1875 1 1
+Tile Fan 67 0 1 1
+Tile Fan 68 0 1 1
+Tile Fan 69 0 1 1
+Tile Fan 70 0 1 1
+Tile Fan 71 0 1 1
+Tile Fan 72 0 1 1
+Tile Fan 73 0 1 1
+Tile Fan 74 0 1 1
+Tile Fan 75 0 1 1
+Tile Fan 76 0 1 1
+Tile Fan 77 0 1 1
+Tile Fan 78 0 1 1
+Tile Fan 79 0 1 1
+Tile Ground 84 0 1 1
+Tile Coin 84 1 1 1
+Tile Block 86 3 1 1
+Tile Block 86 6 1 1
+Tile Block 86 2 1 1
+Tile Block 87 3 1 1
+Tile Block 88 3 1 1
+Tile Block 89 4 1 1
+Tile Block 90 5 1 1
+Tile Block 91 5 1 1
+Tile Block 92 5 1 1
+Tile Block 93 5 1 1
+Tile Block 94 5 1 1
+Tile Block 93 5 1 1
+Tile Block 95 5 1 1
+Tile Block 96 5 1 1
+Tile Block 97 5 1 1
+Tile Block 98 5 1 1
+Tile Block 99 5 1 1
+Tile Coin 97 6 1 1
+Tile Coin 103 10 1 1
+Tile Coin 105 10 1 1
+Tile Brick 95 8 1 1
+Tile Brick 98 8 1 1
+Tile Block 102 1 1 1
+Tile Block 103 1 1 1
+Tile Block 104 1 1 1
+Tile Block 107 3 1 1
+Tile Block 108 3 1 1
+Tile Coin 137 8 1 1
+Tile Coin 129 10 1 1
+Tile Block 112 3 1 1
+Tile Block 113 3 1 1
+Tile Block 114 3 1 1
+Tile Block 117 5 1 1
+Tile WavesUp 117 6 1 1
+Tile Block 115 9 1 1
+Tile Block 114 9 1 1
+Tile Block 113 9 1 1
+Tile Block 112 9 1 1
+Tile Block 111 9 1 1
+Tile Block 110 9 1 1
+Tile Block 109 9 1 1
+Tile Block 108 9 1 1
+Tile Block 107 9 1 1
+Tile Block 106 9 1 1
+Tile Block 105 9 1 1
+Tile Block 104 9 1 1
+Tile Block 103 9 1 1
+Tile InvincibilityPotion 104 10 0 0
+Tile Block 121 1 1 1
+Tile WavesUp 121 2 1 1
+Tile Block 124 5 1 1
+Tile Block 125 5 1 1
+Tile Block 126 5 1 1
+Tile Block 129 5 1 1
+Tile Block 131 5 1 1
+Tile Block 132 5 1 1
+Tile Block 144 8 1 1
+Tile Pole 144 9 1 1
+Tile Block 16 11 1 1
+Tile Block 68 11 1 1
+Tile Block 69 11 1 1
+Tile Block 70 11 1 1
+Tile Block 71 11 1 1
+Tile Block 72 11 1 1
+Tile Block 73 11 1 1
+Tile Block 74 11 1 1
+Tile Block 75 11 1 1
+Tile Block 76 11 1 1
+Tile Block 77 11 1 1
+Tile Block 78 11 1 1
+Tile Block 79 11 1 1
+Tile Block 70 9 1 1
+Tile Block 71 9 1 1
+Tile Block 74 9 1 1
+Tile Block 75 9 1 1
+Flip 66 79
+NPC FlyingKnight 7 6 0 0 2 1 Follow 1
+NPC FlyingKnight 14 6.45312 0 0 2 1 Patrol 3 2 14 8 14 3 
+NPC FlyingKnight 31 5.09375 0 0 2 1 Patrol 2 2 31 9 31 4 
+NPC FlyingKnight 33 7.90625 0 0 2 1 Patrol 2 2 33 4 33 9 
+NPC FlyingKnight 50 7.21875 0 0 2 1 Patrol 2 2 50 9 50 6 
+NPC Knight 56 7 1 1 2 1 Follow 1
+NPC FlyingKnight 60 6.21875 0 0 2 1 Patrol 2 2 60 8 60 5 
+NPC Frog 66 12 0 0 2 50 Follow 0
+NPC Frog 67 12 0 0 2 50 Follow 0
+NPC Frog 68 12 0 0 2 50 Follow 0
+NPC Frog 69 12 0 0 2 50 Follow 0
+NPC Frog 70 12 0 0 2 50 Follow 0
+NPC Frog 71 12 0 0 2 50 Follow 0
+NPC Frog 72 12 0 0 2 50 Follow 0
+NPC Frog 73 12 0 0 2 50 Follow 0
+NPC Frog 74 12 0 0 2 50 Follow 0
+NPC Frog 75 12 0 0 2 50 Follow 0
+NPC Frog 76 12 0 0 2 50 Follow 0
+NPC Frog 77 12 0 0 2 50 Follow 0
+NPC Frog 78 12 0 0 2 50 Follow 0
+NPC Frog 79 12 0 0 2 50 Follow 0
+NPC Frog 80 12 0 0 2 50 Follow 0
+NPC FlyingKnight 82 6.60938 0 0 2 1 Patrol 3 4 82 3 79 3 79 7 82 7 
+NPC FlyingKnight 96.4062 6 0 0 2 1 Patrol 2 2 94 6 97 6 
+NPC FlyingKnight 110 3.375 0 0 2 1 Patrol 2 2 110 6 110 2 
+NPC FlyingKnight 129.281 8 0 0 2 1 Patrol 2 4 128 8 128 4 130 4 130 8 
+NPC FlyingKnight 8.18748 7 0 0 3 1 Patrol 1 2 11 7 8 7 
+NPC Tektite 74.0625 10 0 0 3 1 Patrol 1 2 75 10 74 10 
+NPC Tektite 70.1562 10 0 0 3 1 Patrol 1 2 71 10 70 10 
+MTile MBrick 21.2812 4 1 0 Patrol 2 2 20 4 23 4 
+MTile MBrick 45.4062 5 1 0 Patrol 2 2 39 5 50 5 
+MTile MBrick 135.406 7 1 0 Patrol 2 2 133 7 143 7 
